@@ -1,0 +1,3 @@
+ms.study.rabbitmq.exchange=exchange
+ms.study.rabbitmq.queue=customerCreated
+ms.study.rabbitmq.routingkey=routingkey
